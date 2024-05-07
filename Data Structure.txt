@@ -1,0 +1,32 @@
+Fake and Clone accounts Detection in Twitter using Classification Algorithms
+
+
+Detection_of_FakeandCloneaccounts
+
+
+fake_cloneaccounts
+
+
+Clone and fake, Online Social Networks, 
+
+
+
+uname
+dob
+gender
+address
+location
+emailid
+mobile_no
+names
+tweet_desc
+tweet_loc
+tweet_date
+score
+
+
+
+
+
+
+
